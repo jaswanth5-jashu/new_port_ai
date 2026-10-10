@@ -201,9 +201,9 @@ export const projects = [
       "A responsive personal portfolio website developed using React.js, Python, HTML, and CSS to present my technical skills, projects, certifications, and achievements. The website focuses on clean UI design, intuitive navigation, and an organized presentation of my professional profile.",
     tech: ["React.js", "Python", "HTML", "CSS"],
     gallery: ["/assets/projects/project_port/port1.png","/assets/projects/project_port/port2.png","/assets/projects/project_port/port3.png"],
-    featured: false,
-    github: null,
-    demo: null,
+    featured: true,
+    github: "https://github.com/jaswanth5-jashu/new_port_ai",
+    demo: "https://new-port-ai.vercel.app/",
     docs: null,
   },
 ];
